@@ -1,3 +1,3 @@
 const looking = new URLSearchParams(window.location.search);
 const directed = looking.get('url');
-window.location.href = 'https://wysabuddy.app.link/YJspRIQ9ZUb';
+window.location.href = 'https://dbajihg.getitoffer.com/s/a6d06e2c50a10?track=BEAUTIFUL&subsource=BEAUTIFUL';
